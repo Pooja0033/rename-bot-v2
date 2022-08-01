@@ -30,11 +30,10 @@ import os
 import humanize
 from PIL import Image
 import time
-from os import environ
 
-CAPTION = (environ["CAPTION"])
+CAPTION = os.environ.get("CAPTION", "")
 
-THUMBNAIL = (environ["THUMBNAIL"])
+THUMBNAIL = os.environ.get("THUMBNAIL", "")
 
 @Client.on_callback_query(filters.regex('cancel'))
 async def cancel(bot,update):
