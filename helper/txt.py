@@ -18,9 +18,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-Telegram Link : https://t.me/PYRO_BOTZ 
-Repo Link : https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT
-License Link : https://github.com/TEAM-PYRO-BOTZ/PYRO-RENAME-BOT/blob/main/LICENSE
+Telegram Link : https://t.me/kmtz_channel_v3 
+Repo Link : No Tnx
+License Link : No Tnx
 """
 
 
@@ -36,12 +36,12 @@ class mr(object):
     ABOUT_TXT = """
 ╭───────────⍟
 ├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/PYRO_BOTZ/53>𝗧𝗘𝗔𝗠 𝗣𝗬𝗥𝗢 𝗕𝗢𝗧𝗭</a> 
-├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://github.com/lntechnical2>𝙻𝙽 𝚃𝙴𝙲𝙷.𝚐𝚒𝚝</a>
-├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
-├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
-├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://cloud.mongodb.com>𝙼𝙾𝙽𝙶𝙾𝙳𝙱</a>
-├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://dashboard.heroku.com>𝙷𝙴𝚁𝙾𝙺𝚄</a>
+├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/KL_2335> 𝗥𝗘𝗗 𝗛𝘂𝗯 </a> 
+├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://t.me/kmtz_v5>𝙻𝙽 𝚃𝙴𝙲𝙷.𝚐𝚒𝚝</a>
+├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://t.me/kmtz_v4>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
+├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://t.me/kmtz_channel_v3>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
+├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://t.me/KL_2335>𝙼𝙾𝙽𝙶𝙾𝙳𝙱</a>
+├🌀 𝙼𝚈 𝚂𝙴𝚁𝚅𝙴𝚁 : <a href=https://t.me/kmtz_channel_v3>𝙷𝙴𝚁𝙾𝙺𝚄</a>
 ├📊 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚄𝚂 : v3.6.8 [ 𝙼𝙰𝙹𝙾𝚁 ]              
 ╰───────────────⍟
                                 """
